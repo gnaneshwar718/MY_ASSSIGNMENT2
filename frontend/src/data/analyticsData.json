@@ -1,0 +1,15 @@
+[
+    {
+      "postId": 1,
+      "likes": 20,
+      "shares": 10,
+      "comments": 5
+    },
+    {
+      "postId": 2,
+      "likes": 15,
+      "shares": 8,
+      "comments": 3
+    }
+  ]
+  
